@@ -20,7 +20,7 @@ Adds a modx BBCode to display MODX commands.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/modx/workflows/Tests/badge.svg)](https://github.com/KaileySnay/modx/actions)
+master: [![Build Status](https://github.com/kaileysnay/modx/workflows/Tests/badge.svg)](https://github.com/kaileysnay/modx/actions)
 
 ## License
 
