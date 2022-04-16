@@ -3,7 +3,7 @@
  *
  * MODX extension for the phpBB Forum Software package
  *
- * @copyright (c) 2021, Kailey Truscott, https://www.layer-3.org/
+ * @copyright (c) 2021, Kailey Snay, https://www.layer-3.org/
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
